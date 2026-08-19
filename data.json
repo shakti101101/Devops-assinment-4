@@ -12,11 +12,6 @@
     {
         "id": 3,
         "name": "Amit",
-        "course": "MongoDB"
-    },
-    {
-        "id": 4,
-        "name": "Sneha",
-        "course": "Java"
+        "course": "Flask"
     }
 ]
